@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: b14e91ec03cc1b949bb9448b21f81fd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - villaBtn: {instanceID: 0}
+  - buildingBtn: {instanceID: 0}
+  - hotelBtn: {instanceID: 0}
+  - buyingBtn: {instanceID: 0}
+  - cancelBtn: {instanceID: 0}
+  - villaBeforeClick: {fileID: 21300000, guid: a9f93fa591f1fc74ca5014c42361b36f, type: 3}
+  - villaAfterClick: {fileID: 21300000, guid: 39f7ffe36f9194a4d885bc686c5d3792, type: 3}
+  - buildingBeforeClick: {fileID: 21300000, guid: e6fe54e9d8669c74fb309aa653916122,
+      type: 3}
+  - buildingAfterClick: {fileID: 21300000, guid: d0bc02224f358ac4f947ad705aa920e4,
+      type: 3}
+  - hotelBeforeClick: {fileID: 21300000, guid: 4fab8c18034b061499b4116f54c5982b, type: 3}
+  - hotelAfterClick: {fileID: 21300000, guid: 6aeb6147e15a7c74f8fd3a2a3eb41886, type: 3}
+  - buyingBeforeClick: {fileID: 21300000, guid: c9ba526b844a5024d91140e20564b70e,
+      type: 3}
+  - buyingAfterClick: {fileID: 21300000, guid: ebef41ea7d81d28418e577e6bdb69863, type: 3}
+  - cancelBeforeClick: {fileID: 21300000, guid: c9ec4f517b9d3f94bb2ca3dbc66afe1f,
+      type: 3}
+  - cancelAfterClick: {fileID: 21300000, guid: 3f1fa442c3842a44e9e12ebdc0f14034, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
